@@ -29,6 +29,17 @@ header img{
 	height: 100%; 
 	}
 
+#experencia {
+	background-color: #343a40;
+	color: black;
+	
+}
+
+.btn-caliche:hover {
+	background-color: #00B894;
+	color: white;
+}
+
 footer{
 	background-color: #005947;
 }
