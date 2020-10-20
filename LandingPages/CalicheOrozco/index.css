@@ -40,6 +40,20 @@ header img{
 	color: white;
 }
 
+#educacion {
+	background-color: #343a40;
+	color: white;
+	
+}
+
+#educacion img{
+	max-width: 100%;
+
+}
+
+
+
+
 footer{
 	background-color: #005947;
 }
