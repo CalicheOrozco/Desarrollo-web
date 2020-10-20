@@ -63,5 +63,9 @@ footer a{
 	color: white;
 }
 footer a:hover{
-	color: black;
+	color: #00B894;
+}
+
+footer img{
+	max-height: 5vh;
 }
