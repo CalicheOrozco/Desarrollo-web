@@ -1,0 +1,45 @@
+.navbar img {
+    max-height: 70px !important; 
+} 
+.navbar a{
+    color: purple !important;
+}
+
+.btn-catrina{
+    background-color: #FFE479 !important;
+    border-color: #5A33AD !important;
+    color: #5A33AD !important;
+}
+.btn-catrina2{
+    background-color: #FFE479 !important;
+
+}
+#main img{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+	position: relative;
+}
+#main .overlay{
+	/* z-index: sirve para controlar el orden de los elementos, mientras mayor es el valor, mayor es la prioridad.*/
+	z-index: 1;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: rgb(40, 24, 75, 0.95);
+	color: white; 
+}
+
+#main .overlay .container-fluid, 
+#main .overlay .row{
+	height: 100%; 
+    }
+    
+.overlay img {
+    max-width: 80%;
+    max-height: 80%;
+}
