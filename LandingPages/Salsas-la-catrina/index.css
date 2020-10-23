@@ -101,7 +101,13 @@
 
 }
 
+.ordena-ahora, .ubicacion
+ {
+    border: 2px solid  #5A33AD !important;
+    
+    color: white !important;
 
+}
 
 
 
