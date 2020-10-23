@@ -30,9 +30,11 @@
     border: 2px solid  #371E6B !important;
     background-color: transparent !important;
     color: purple !important;
- 
-    
-
+}
+.btn-outline-catrina3:hover{
+    border: 2px solid  #371E6B !important;
+    background-color: #371E6B !important;
+    color: white !important;
 }
 
 #main img{
@@ -80,15 +82,24 @@
     background-image: url(assets/images/background-hecho-a-mano.png);
     height: 400px;
     width: 100%;
-    
-
 }
 
 #nivel-picante {
     background-color: #29184D ;
 }
 
+.elige-tus-salsas,
+.entregamos-donde-sea {
+    background-color: #29184D ;
+}
 
+.elige-tus-salsas,
+.realiza-tu-pedido,
+.entregamos-donde-sea{
+    height: 100%;
+    width: 100%;
+
+}
 
 
 
