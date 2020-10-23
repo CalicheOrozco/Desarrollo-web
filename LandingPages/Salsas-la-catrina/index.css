@@ -7,6 +7,9 @@
 .text-catrina{
     color: #5A33AD !important;
 }
+.text-catrina2{
+    color: #FFE479 !important;
+}
 .btn-catrina{
     background-color: #FFE479 !important;
     border-color: #5A33AD !important;
@@ -64,11 +67,13 @@
 
 
 
-#nosotros img{
+#nosotros img,
+#nivel-picante .container-fluid img{
     height: 100%;
     width: 100%;
 }
-#nosotros{
+#nosotros,
+#nivel-picante{
 	position: relative;
 }
 #productos-hecho-a-mano {
@@ -78,6 +83,12 @@
     
 
 }
+
+#nivel-picante {
+    background-color: #29184D ;
+}
+
+
 
 
 
