@@ -56,13 +56,14 @@
 #nosotros{
 	position: relative;
 }
-#productos-hecho-a-mano img{
+#productos-hecho-a-mano {
+    background-image: url(assets/images/background-hecho-a-mano.png);
     height: 400px;
     width: 100%;
-    position: absolute;
+    
+
 }
 
-#nosotros .container-fluid {
-    padding-bottom: 120px;
-}
+
+
 
