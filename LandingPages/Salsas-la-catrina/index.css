@@ -56,3 +56,13 @@
 #nosotros{
 	position: relative;
 }
+#productos-hecho-a-mano img{
+    height: 400px;
+    width: 100%;
+    position: absolute;
+}
+
+#nosotros .container-fluid {
+    padding-bottom: 120px;
+}
+
